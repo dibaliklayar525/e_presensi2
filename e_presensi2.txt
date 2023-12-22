@@ -1,0 +1,7 @@
+E_Presensi adalah Absensi Online berbasis Web dengan menggunakan teknologi Codeigniter 4
+
+Fitur : Absen Menggunakan Camera, Absen Menampilkan Lokasi Terkini, dan Validasi Lokasi Absen, dan Rekap Absensi
+
+Question
+###########################
+By: Meaghito Rizki Gumilang Sakti
